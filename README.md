@@ -3,4 +3,4 @@ Primeiro repositório Git/GitHub - Desafio de Projeto
 
 
 ## Links Úteis
-[Sintaxe Basica Markdown]([https://www.markdownguide.org/](https://www.markdownguide.org/basic-syntax/))
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
